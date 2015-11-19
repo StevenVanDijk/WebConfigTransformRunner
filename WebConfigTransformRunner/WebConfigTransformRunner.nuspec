@@ -15,6 +15,7 @@
   </metadata>
   <files>
     <file src="bin\Debug\WebConfigTransformRunner.exe" target="Tools"/>
+    <file src="bin\Debug\Microsoft.Web.XmlTransform.dll" target="Tools"/>
     <file src="readme.txt" target="readme.txt"/>
   </files>
 </package>
